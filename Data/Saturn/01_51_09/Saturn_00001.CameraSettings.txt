@@ -1,0 +1,68 @@
+[ZWO ASI294MC Pro]
+FrameType=Light
+#Aperçu de Debayer
+Debayer Preview=On
+#Poêle
+Pan=0
+#Inclinaison
+Tilt=0
+#Format de sortie
+Output Format=FITS files (*.fits)
+Binning=1
+#Zone de capture
+Capture Area=4144x2822
+#Espace colorimétrique
+Colour Space=RAW16
+#Mode haute vitesse
+High Speed Mode=Off
+Turbo USB=80(Auto)
+#Retourner
+Flip=None
+#Limite de fréquence d'images
+Frame Rate Limit=Maximum
+#Gagner
+Gain=90
+#Exposition
+Exposure=3,000s
+#Images d'horodatage
+Timestamp Frames=Off
+#Bal blanc (B)
+White Bal (B)=95
+#Bal blanc (R)
+White Bal (R)=52
+#Luminosité
+Brightness=8
+#Puissance plus froide
+Cooler Power=100
+#Température
+Temperature=16,5
+#Température cible
+Target Temperature=-20
+#Refroidissement
+Cooler=On
+Auto Exp Max Gain=285
+Auto Exp Max Exp M S=30000
+Auto Exp Target Brightness=100
+Mono Bin=Off
+#Soustraction d'arrière-plan
+Background Subtraction=Off
+#Stabilisation planète / disque
+Planet/Disk Stabilization=Off
+#Seuil de bande
+Banding Threshold=35
+#Suppression des bandes
+Banding Suppression=0
+#Diviser par les flats
+Apply Flat=None
+#Soustraire les darks
+Subtract Dark=None
+#Afficher le point noir
+Display Black Point=0
+#Afficher le point médian
+Display MidTone Point=0,5
+#Afficher le point blanc
+Display White Point=1
+#Remarques
+Notes=
+TimeStamp=2022-08-24T23:51:10.1251343Z
+SharpCapVersion=4.0.8667.0
